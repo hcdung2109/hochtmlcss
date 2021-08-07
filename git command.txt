@@ -1,0 +1,8 @@
++ Lấy code mới nhất của dự án về
+- git pull origin master
+
+=>  Thay đổi file,....
++ Đưa  thay đổi lên git
+- git add . // (git add tên_file)
+- git commit -m "tên messsage"
+- git push origin master
